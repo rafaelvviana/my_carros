@@ -1,0 +1,11 @@
+.my_form_text {
+    padding: 0.2em;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.my_form_text span {
+    font-weight: bold;
+    padding: 0.5em;
+    margin-top: 1em;
+}

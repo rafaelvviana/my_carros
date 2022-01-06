@@ -1,0 +1,17 @@
+.my_form_link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5em;
+    padding: 0.5em;    
+    font-weight: bold;
+    font-size: 1em;
+    background-color: #222;
+    color: #fff;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.my_form_link:hover {
+    color: #ffbb33;
+}

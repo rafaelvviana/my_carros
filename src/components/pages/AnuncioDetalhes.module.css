@@ -1,0 +1,19 @@
+.anuncio_detalhes_container {
+    margin: 0 auto;
+    padding: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.anuncio_detalhes_linha {
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.anuncio_detalhes_dados {
+    width: 30%;
+}
+

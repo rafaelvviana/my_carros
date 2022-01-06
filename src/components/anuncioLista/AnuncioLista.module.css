@@ -1,0 +1,5 @@
+.anuncio_lista {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

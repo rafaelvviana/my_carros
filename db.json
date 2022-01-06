@@ -1,0 +1,174 @@
+{
+    "anuncios": [
+        {
+            "id": 1,
+            "carro": {
+                "nome": "Palio",
+                "marca": "Fiat",
+                "ano_fabricacao": "1998",
+                "ano_modelo": "1999",
+                "cor": "amarelo",
+                "modelo": "EDX",
+                "portas": "4",
+                "acessorios": "Ar, direção, vidros e travas elétricas",
+                "km": "54000"
+            },
+            "valor": "15000,00",
+            "obs": "IPVA Pago",
+            "foto_principal": "/assets/images/gol/gol.jpg",
+            "fotos": [                
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-2.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-3.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-4.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-5.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "carro": {
+                "nome": "Uno",
+                "marca": "Fiat",
+                "ano_fabricacao": "1998",
+                "ano_modelo": "1999",
+                "cor": "amarelo",
+                "modelo": "EDX",
+                "portas": "4",
+                "acessorios": "Ar, direção, vidros e travas elétricas",
+                "km": "54000"
+            },
+            "valor": "15000,00",
+            "obs": "IPVA Pago",
+            "foto_principal": "/assets/images/corolla/corolla-1.jpg",
+            "fotos": [                
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-2.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-3.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-4.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-5.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "carro": {
+                "nome": "Marea",
+                "marca": "Fiat",
+                "ano_fabricacao": "1998",
+                "ano_modelo": "1999",
+                "cor": "amarelo",
+                "modelo": "EDX",
+                "portas": "4",
+                "acessorios": "Ar, direção, vidros e travas elétricas",
+                "km": "54000"
+            },
+            "valor": "15000,00",
+            "obs": "IPVA Pago",
+            "foto_principal": "/assets/images/corolla/corolla-1.jpg",
+            "fotos": [                
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-2.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-3.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-4.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-5.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "carro": {
+                "nome": "Stilo",
+                "marca": "Fiat",
+                "ano_fabricacao": "1998",
+                "ano_modelo": "1999",
+                "cor": "amarelo",
+                "modelo": "EDX",
+                "portas": "4",
+                "acessorios": "Ar, direção, vidros e travas elétricas",
+                "km": "54000"
+            },
+            "valor": "15000,00",
+            "obs": "IPVA Pago",
+            "foto_principal": "/assets/images/corolla/corolla-1.jpg",
+            "fotos": [                
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-2.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-3.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-4.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-5.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "carro": {
+                "nome": "F550",
+                "marca": "Ferrari",
+                "ano_fabricacao": "1998",
+                "ano_modelo": "1999",
+                "cor": "amarelo",
+                "modelo": "Spider",
+                "portas": "4",
+                "acessorios": "Ar, direção, vidros e travas elétricas",
+                "km": "54000"
+            },
+            "valor": "150000,00",
+            "obs": "IPVA Pago",
+            "foto_principal": "/assets/images/corolla/corolla-1.jpg",
+            "fotos": [                
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-2.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-3.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-4.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-5.jpg"
+                },
+                {
+                    "urlFoto": "/assets/images/corolla/corolla-6.jpg"
+                }
+            ]
+        }
+    ]
+}

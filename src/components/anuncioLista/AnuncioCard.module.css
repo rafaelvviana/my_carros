@@ -1,0 +1,22 @@
+.anuncio_card {
+    border: 2px solid #7a7a7a;
+    border-radius: 5px;
+    margin: 0.5%;
+}
+
+.anuncio_card h4 {
+    background-color: #222;
+    color: #ffbb33;
+    margin-bottom: 1.3em;
+    font-size: 1.3em;
+}
+
+.anuncio_card span {
+    font-weight: bold;
+}
+
+.anuncio_card img {
+    padding: 1em;
+    width: 100%;
+    
+}

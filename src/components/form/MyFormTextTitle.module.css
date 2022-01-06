@@ -1,0 +1,10 @@
+.my_form_text_title {
+    border: 1px 1px 1px 1px;
+    background-color: #222;
+    color: #ffbb33;
+    font-weight: bold;
+    padding: 0.5em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
